@@ -1,0 +1,336 @@
+{
+  "took": 185,
+  "timed_out": false,
+  "_shards": {
+    "total": 45,
+    "successful": 45,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 6529,
+    "max_score": 0,
+    "hits": []
+  },
+  "aggregations": {
+    "TRANSACTION_STATUS": {
+      "buckets": [
+        {
+          "key": {
+            "DATE": 1534550400000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 16
+        },
+        {
+          "key": {
+            "DATE": 1534636800000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 2
+        },
+        {
+          "key": {
+            "DATE": 1534636800000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1534723200000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 194
+        },
+        {
+          "key": {
+            "DATE": 1534723200000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 236
+        },
+        {
+          "key": {
+            "DATE": 1534809600000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 7
+        },
+        {
+          "key": {
+            "DATE": 1534809600000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 281
+        },
+        {
+          "key": {
+            "DATE": 1534896000000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 88
+        },
+        {
+          "key": {
+            "DATE": 1534896000000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 136
+        },
+        {
+          "key": {
+            "DATE": 1534982400000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 111
+        },
+        {
+          "key": {
+            "DATE": 1534982400000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 161
+        },
+        {
+          "key": {
+            "DATE": 1535068800000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 145
+        },
+        {
+          "key": {
+            "DATE": 1535068800000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 118
+        },
+        {
+          "key": {
+            "DATE": 1535155200000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 107
+        },
+        {
+          "key": {
+            "DATE": 1535155200000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 181
+        },
+        {
+          "key": {
+            "DATE": 1535241600000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 103
+        },
+        {
+          "key": {
+            "DATE": 1535241600000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 185
+        },
+        {
+          "key": {
+            "DATE": 1535328000000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 110
+        },
+        {
+          "key": {
+            "DATE": 1535328000000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 178
+        },
+        {
+          "key": {
+            "DATE": 1535414400000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 112
+        },
+        {
+          "key": {
+            "DATE": 1535414400000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 176
+        },
+        {
+          "key": {
+            "DATE": 1535500800000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 99
+        },
+        {
+          "key": {
+            "DATE": 1535500800000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 189
+        },
+        {
+          "key": {
+            "DATE": 1535587200000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 32
+        },
+        {
+          "key": {
+            "DATE": 1535587200000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 191
+        },
+        {
+          "key": {
+            "DATE": 1535673600000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1535760000000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1535846400000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 98
+        },
+        {
+          "key": {
+            "DATE": 1535932800000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 77
+        },
+        {
+          "key": {
+            "DATE": 1536019200000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 96
+        },
+        {
+          "key": {
+            "DATE": 1536105600000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 176
+        },
+        {
+          "key": {
+            "DATE": 1536192000000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1536278400000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1536364800000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1536451200000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1536537600000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1536624000000,
+            "TRANSACTION_STATUS": "ERROR"
+          },
+          "doc_count": 2
+        },
+        {
+          "key": {
+            "DATE": 1536624000000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 190
+        },
+        {
+          "key": {
+            "DATE": 1536710400000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1536796800000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1536883200000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1536969600000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1537056000000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 192
+        },
+        {
+          "key": {
+            "DATE": 1537142400000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 159
+        },
+        {
+          "key": {
+            "DATE": 1537228800000,
+            "TRANSACTION_STATUS": "SUCCESS"
+          },
+          "doc_count": 77
+        }
+      ]
+    }
+  }
+}

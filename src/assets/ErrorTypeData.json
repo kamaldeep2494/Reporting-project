@@ -1,0 +1,114 @@
+{
+  "list":[
+  {
+    "DATE": "August 10th 2018, 00:01:21.282",
+    "FLOW_NAME": "C4C_SAPECC_Opportunities",
+    "ERROR_TYPE": "Business",
+    "ERROR_CODE": "",
+    "ERROR_MESSAGE": "",
+    "TRACKING_ID": "nlxsl751_b381e102-0edd-4cae-83af-57fb278e92eb",
+    "TRANSACTION_STATUS": "SUCCESS"
+    
+  },
+  {
+    "DATE": "August 11th 2018, 00:02:22.376",
+    "FLOW_NAME": "C4C_SAPECC_Opportunities",
+    "ERROR_TYPE": "Functional",
+    "ERROR_CODE": "",
+    "ERROR_MESSAGE": "",
+    "TRACKING_ID": "nlxsl751_751ecb72-c8b7-44ae-9a81-71255d3b174c",
+    "TRANSACTION_STATUS": "SUCCESS"
+    
+  },
+  {
+    "DATE": "August 12th 2018, 00:03:17.826",
+    "FLOW_NAME": "C4C_SAPECC_Opportunities",
+    "ERROR_TYPE": "Business",
+    "ERROR_CODE": "",
+    "ERROR_MESSAGE": "",
+    "TRACKING_ID": "nlxsl751_2c0fef60-0fc7-4757-b793-f5be32eacbdc",
+    "TRANSACTION_STATUS": "SUCCESS"
+	
+  },
+  {
+    "DATE": "August 13th 2018, 00:05:00.041",
+    "FLOW_NAME": "C4C_SAPECC_Opportunities",
+    "ERROR_TYPE": "Functional",
+    "ERROR_CODE": "",
+    "ERROR_MESSAGE": "",
+    "TRACKING_ID": "nlxsl751_aefbca4e-ad20-4e4e-b3f0-eaf482a4659e",
+    "TRANSACTION_STATUS": "SUCCESS"
+	
+  },
+  {
+    "DATE": "August 14th 2018, 00:06:12.575",
+    "FLOW_NAME": "C4C_SAPECC_Opportunities",
+    "ERROR_TYPE": "Business",
+    "ERROR_CODE": "",
+    "ERROR_MESSAGE": "",
+    "TRACKING_ID": "nlxsl751_0fa072fe-d2eb-4f84-bbd9-c30acb2ad9c1",
+    "TRANSACTION_STATUS": "SUCCESS"
+	
+  },
+  {
+    "DATE": "August 15th 2018, 00:06:54.324",
+    "FLOW_NAME": "C4C_SAPECC_Opportunities",
+    "ERROR_TYPE": "Functional",
+    "ERROR_CODE": "",
+    "ERROR_MESSAGE": "",
+    "TRACKING_ID": "nlxsl751_53751f62-7684-4837-b665-63c2fb0d4a60",
+    "TRANSACTION_STATUS": "SUCCESS"
+	
+  },
+  {
+    "DATE": "August 16th 2018, 00:08:33.017",
+    "FLOW_NAME": "C4C_SAPECC_Opportunities",
+    "ERROR_TYPE": "Business",
+    "ERROR_CODE": "",
+    "ERROR_MESSAGE": "",
+    "TRACKING_ID": "nlxsl751_c67fe1ca-6913-4061-9b3c-a60a3e7ad9df",
+    "TRANSACTION_STATUS": "SUCCESS"
+	
+  },
+  {
+    "DATE": "August 17th 2018, 00:14:29.601",
+    "FLOW_NAME": "C4C_SAPECC_Opportunities",
+    "ERROR_TYPE": "Business",
+    "ERROR_CODE": "",
+    "ERROR_MESSAGE": "",
+    "TRACKING_ID": "nlxsl751_3872bd42-195a-4603-8a24-3832cbc95e1a",
+    "TRANSACTION_STATUS": "SUCCESS"
+	
+  },
+  {
+    "DATE": "August 17th 2018, 00:14:29.601",
+    "FLOW_NAME": "C4C_SAPECC_Opportunities",
+    "ERROR_TYPE": "Functional",
+    "ERROR_CODE": "",
+    "ERROR_MESSAGE": "",
+    "TRACKING_ID": "nlxsl751_3872bd42-195a-4603-8a24-3832cbc95e1a",
+    "TRANSACTION_STATUS": "SUCCESS"
+	
+  },
+  {
+    "DATE": "August 17th 2018, 00:14:29.601",
+    "FLOW_NAME": "C4C_SAPECC_Opportunities",
+    "ERROR_TYPE": "Business",
+    "ERROR_CODE": "",
+    "ERROR_MESSAGE": "",
+    "TRACKING_ID": "nlxsl751_3872bd42-195a-4603-8a24-3832cbc95e1a",
+    "TRANSACTION_STATUS": "SUCCESS"
+	
+  },
+  {
+    "DATE": "August 17th 2018, 00:14:29.601",
+    "FLOW_NAME": "C4C_SAPECC_Opportunities",
+    "ERROR_TYPE": "Functional",
+    "ERROR_CODE": "",
+    "ERROR_MESSAGE": "",
+    "TRACKING_ID": "nlxsl751_3872bd42-195a-4603-8a24-3832cbc95e1a",
+    "TRANSACTION_STATUS": "SUCCESS"
+	
+  }
+  ]
+}

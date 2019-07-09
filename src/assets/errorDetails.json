@@ -1,0 +1,141 @@
+{  
+    "count":1110,
+    "payload":{  
+       "group By ERROR TYPE":{  
+          "doc_count_error_upper_bound":0,
+          "sum_other_doc_count":0,
+          "buckets":[  
+             {  
+                "key":"Technical error: &#xd;\nunexpected internal Error",
+                "doc_count":742,
+                "top hits":{  
+                   "hits":{  
+                      "total":742,
+                      "max_score":null,
+                      "hits":[  
+                         {  
+                            "_index":"flowstatus_legacy_aug",
+                            "_type":"flowevents",
+                            "_id":"f5483f947df44c9da196eef8399df33a",
+                            "_score":null,
+                            "_source":{  
+                               "ERROR_TYPE":"Technical",
+                               "ERROR_MESSAGE":"Technical error: &#xd;\nunexpected internal Error",
+                               "ERROR_CODE":500
+                            },
+                            "sort":[  
+                               1535614200264
+                            ]
+                         }
+                      ]
+                   }
+                }
+             },
+             {  
+                "key":"Technical error: &#xd;\ntechnical error while searching property 000036.Lock in tibco database",
+                "doc_count":202,
+                "top hits":{  
+                   "hits":{  
+                      "total":202,
+                      "max_score":null,
+                      "hits":[  
+                         {  
+                            "_index":"flowstatus_legacy_aug",
+                            "_type":"flowevents",
+                            "_id":"5983fd59b7834962b569d827a8e46a9b",
+                            "_score":null,
+                            "_source":{  
+                               "ERROR_TYPE":"Technical",
+                               "ERROR_MESSAGE":"Technical error: &#xd;\ntechnical error while searching property 000036.Lock in tibco database",
+                               "ERROR_CODE":7070
+                            },
+                            "sort":[  
+                               1534936500066
+                            ]
+                         }
+                      ]
+                   }
+                }
+             },
+             {  
+                "key":"Functional error: &#xd;\nSince the 000036 lock property is already acquired.. Sims support please check if the flow is not hanging..",
+                "doc_count":118,
+                "top hits":{  
+                   "hits":{  
+                      "total":118,
+                      "max_score":null,
+                      "hits":[  
+                         {  
+                            "_index":"flowstatus_legacy_sep",
+                            "_type":"flowevents",
+                            "_id":"620d2900055644a696c61ffc5e07155c",
+                            "_score":null,
+                            "_source":{  
+                               "ERROR_TYPE":"Business",
+                               "ERROR_MESSAGE":"Functional error: &#xd;\nSince the 000036 lock property is already acquired.. Sims support please check if the flow is not hanging..",
+                               "ERROR_CODE":"000036_F_SWPS_02"
+                            },
+                            "sort":[  
+                               1536706800258
+                            ]
+                         }
+                      ]
+                   }
+                }
+             },
+             {  
+                "key":"Technical error: &#xd;\nfailed to sendEmail",
+                "doc_count":28,
+                "top hits":{  
+                   "hits":{  
+                      "total":28,
+                      "max_score":null,
+                      "hits":[  
+                         {  
+                            "_index":"flowstatus_legacy_aug",
+                            "_type":"flowevents",
+                            "_id":"07a6f998012b474e801e28fcea2cd1eb",
+                            "_score":null,
+                            "_source":{  
+                               "ERROR_TYPE":"Technical",
+                               "ERROR_MESSAGE":"Technical error: &#xd;\nfailed to sendEmail",
+                               "ERROR_CODE":1013
+                            },
+                            "sort":[  
+                               1535103008256
+                            ]
+                         }
+                      ]
+                   }
+                }
+             },
+             {  
+                "key":"After 0 retries: Technical error: &#xd;\ntechnical error while updating property 000036.Lock with value  in tibco database",
+                "doc_count":20,
+                "top hits":{  
+                   "hits":{  
+                      "total":20,
+                      "max_score":null,
+                      "hits":[  
+                         {  
+                            "_index":"flowstatus_legacy_aug",
+                            "_type":"flowevents",
+                            "_id":"3a28bef718984d78bb8448551f31c763",
+                            "_score":null,
+                            "_source":{  
+                               "ERROR_TYPE":"Technical",
+                               "ERROR_MESSAGE":"After 0 retries: Technical error: &#xd;\ntechnical error while updating property 000036.Lock with value  in tibco database",
+                               "ERROR_CODE":7070
+                            },
+                            "sort":[  
+                               1534936500215
+                            ]
+                         }
+                      ]
+                   }
+                }
+             }
+          ]
+       }
+    }
+ }
